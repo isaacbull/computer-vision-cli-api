@@ -3,6 +3,8 @@
 # computer-vision-api
 This is a repo for creating Computer Vision examples
 
+[![Testing Python application test with Github Actions after adding to my repo](https://github.com/isaacbull/computer-vision-cli-api/actions/workflows/main.yml/badge.svg)](https://github.com/isaacbull/computer-vision-cli-api/actions/workflows/main.yml)
+
 
 ## Methods to Explore Image Recognition API
 
